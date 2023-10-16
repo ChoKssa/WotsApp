@@ -1,2 +1,2 @@
 # WotsApp
-readmee
+readme
